@@ -1,7 +1,7 @@
 # Olá, eu sou o Mauricio Ribas! 👋
 
 <div align="center">
-  <img src="capa-perfil.gif" width="100%" alt="Banner Lofi Cyberpunk Mauricio Ribas">
+  <img src="pixel-banner.gif" width="100%" alt="Banner Lofi Cyberpunk Mauricio Ribas">
 </div>
 
 ---
