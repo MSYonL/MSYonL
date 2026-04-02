@@ -1,5 +1,7 @@
 # Olá, eu sou o Mauricio Ribas! 👋
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ED8B00&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java+%26+Game+Dev;Criando+o+RPG+MSyL+do+zero;Cursando+Entra21;Estudando+Java;Estudando+Espanhol+Rioplatense" alt="Typing SVG" />
+</div>
 <div align="center">
   <img src="capa.gif" width="800" alt="Banner Lofi Cyberpunk Mauricio Ribas">
 </div>
@@ -53,19 +55,24 @@ Um RPG top-down focado em exploração e combate, construído inteiramente do ze
 
 ---
 
-## 📫 Vamos nos conectar?
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/maurício-ribas-610923216/" target="_blank">
-  </a>
-</div>
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MSYonL&theme=nord)](https://github.com/MSYonL)
 
+</div>
+
+## 📈 Ritmo de Atividade
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSYonL&theme=nord&bg_color=2e3440&hide_border=true" width="800" />
+</div>
+
+## ⏱️ Horas de Código
+
+<div align="center">
+  <a href="https://wakatime.com/@e6635847-d1c1-4110-a6c0-98a342ddb82f">
+    <img src="https://wakatime.com/badge/user/e6635847-d1c1-4110-a6c0-98a342ddb82f.svg" alt="Total time coded since Apr 2 2026" />
+  </a>
 </div>
