@@ -57,7 +57,6 @@ Um RPG top-down focado em exploração e combate, construído inteiramente do ze
 
 <div align="center">
   <a href="https://www.linkedin.com/in/maurício-ribas-610923216/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
@@ -67,7 +66,6 @@ Um RPG top-down focado em exploração e combate, construído inteiramente do ze
 
 <div align="center">
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MSYonL&show_icons=true&theme=nord)](https://github.com/MSYonL)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MSYonL&layout=compact&theme=nord)](https://github.com/MSYonL)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MSYonL&theme=nord)](https://github.com/MSYonL)
 
 </div>
