@@ -1,4 +1,9 @@
-# Olá, eu sou o Mauricio Ribas! 👋
+<div align="right">
+  <a href="README_EN.md"><img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge&logo=googletranslate&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Idioma-Português-green?style=for-the-badge" />
+</div>
+
+## Olá, eu sou o Mauricio Ribas! 👋
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ED8B00&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java+%26+Game+Dev;Criando+o+RPG+MSyL+do+zero;Cursando+Entra21;Estudando+Java;Estudando+Espanhol+Rioplatense" alt="Typing SVG" />
 </div>
