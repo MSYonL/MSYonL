@@ -31,6 +31,15 @@ Um RPG top-down focado em exploração e combate, construído inteiramente do ze
 * **Tecnologias:** Java (Orientação a Objetos)
 * **Destaque:** Engine própria desenvolvida do zero sem ferramentas comerciais, incluindo sistema de física, colisão e inteligência artificial (pathfinding).
 ---
+## Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MSYonL/MSYonL/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MSYonL/MSYonL/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Shark Snake" src="https://raw.githubusercontent.com/MSYonL/MSYonL/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ## 🛠️ Tech Stack & Estudos Atuais
 
