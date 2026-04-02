@@ -1,7 +1,7 @@
 # Olá, eu sou o Mauricio Ribas! 👋
 
 <div align="center">
-  <img src="pixel-banner.gif" width="100%" alt="Banner Lofi Cyberpunk Mauricio Ribas">
+  <img src="capa.gif" width="800" alt="Banner Lofi Cyberpunk Mauricio Ribas">
 </div>
 
 ---
@@ -24,7 +24,7 @@ Atualmente, dedico meu tempo à especialização em **Game Development** e ao ec
 Aplicação desktop desenvolvida para controle financeiro e gestão de dados.
 * **Tecnologias:** Java, Java Swing (Interface Gráfica) e POO.
 * **Destaque:** Implementação de lógica para manipulação de tabelas e persistência de informações.
-### ⚔️ [MSyL - RPG 2D em Java](https://github.com/MSYonL/Projeto-De-Jogo-Proprio)
+### ⚔️ [MSyL - RPG 2D em Java](https://github.com/MSYonL/Projeto-De-Jogo-Proprio) - BREVE EM ANDAMENTO...
 Um RPG top-down focado em exploração e combate, construído inteiramente do zero.
 * **Tecnologias:** Java (Orientação a Objetos)
 * **Destaque:** Engine própria desenvolvida do zero sem ferramentas comerciais, incluindo sistema de física, colisão e inteligência artificial (pathfinding).
