@@ -31,7 +31,7 @@ Atualmente, dedico meu tempo à especialização em **Game Development** e ao ec
 Aplicação desktop desenvolvida para controle financeiro e gestão de dados.
 * **Tecnologias:** Java, Java Swing (Interface Gráfica) e POO.
 * **Destaque:** Implementação de lógica para manipulação de tabelas e persistência de informações.
-### ⚔️ [MSyL - Farm RPG 2D em Java] - BREVE EM ANDAMENTO...
+### ⚔️ [MSyL - Farm RPG 2.5D] - BREVE EM ANDAMENTO...
 Um Farm RPG top-down focado em exploração e combate, construído inteiramente do zero.
 * **Tecnologias:** Java (Orientação a Objetos)
 ---
